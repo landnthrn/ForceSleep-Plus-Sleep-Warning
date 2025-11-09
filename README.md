@@ -2,7 +2,7 @@
 ![SleepwarningPreview](https://github.com/user-attachments/assets/95d23811-a6f4-4690-9588-bd21821672ea)
 
 
-# ForceSleep-Sleep-Warning
+# Force Sleep Plus Sleep Warning
 This feature will simulate the regular sleeping timer system, while also providing a Sleep Warning display allowing you time to cancel it.  
 Also helpful if your PC just refuses to sleep and you can't figure out the cause of it.
 
