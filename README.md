@@ -6,7 +6,7 @@
 This feature will simulate the regular sleeping timer system, while also providing a Sleep Warning display allowing you time to cancel it.  
 Also helpful if your PC just refuses to sleep and you can't figure out the cause of it.
 
-You can toggle the feature on/off with simple commands in any command prompt window:
+You can toggle the feature on/off with simple commands in any command prompt window
 
 #### ForceSleep Commands:  
 `forcesleep`        — Display this list of commands  
