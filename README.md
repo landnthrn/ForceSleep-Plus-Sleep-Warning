@@ -1,5 +1,6 @@
 ![SleepwarningPreview](https://github.com/user-attachments/assets/95d23811-a6f4-4690-9588-bd21821672ea)
-<img width="417" height="263" alt="seelen-ui_Yea6HDYXRe" src="https://github.com/user-attachments/assets/ff28c26e-6660-4c87-9f4d-7a9250c07e58" />
+<img width="376" height="273" alt="tacky-borders_tGYr11NU5e" src="https://github.com/user-attachments/assets/f5682582-db94-4440-a919-c5017d52c92f" />
+
 
 # BETTER PC SLEEP + SLEEP WARNING
 This feature simulates the regular sleeping system and adds more convenience to it.  
@@ -21,7 +22,7 @@ Comes with a mini UI in command prompt.
 ### CMD SLEEP COMMANDS:
 `sleep` — Display this list of commands  
 `sleepon` — Enable idle sleep  
-`sleepoff` — Disable idle sleep (perfect for long downloads & so on)  
+`sleepoff` — Disable idle sleep
 `sleepstatus` — Check if the watcher is enabled/disabled  
 `sleeptime` — Change the set idle time to trigger sleep  
 `sleeprestart` — Restart the sleep watcher task manually  
