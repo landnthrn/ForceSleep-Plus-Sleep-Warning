@@ -15,7 +15,7 @@ Comes with a mini UI in command prompt.
 
 — **Want you're PC to sleep after a download/upload is expected to finish?** Set a sleep timer for it
 
-— **You're PC refues to sleep and you just can't figure out the cause of it?** This will simulate the default sleeping system for you
+— **You're PC refuses to sleep and you just can't figure out the cause of it?** This will simulate the default sleeping system for you
 
 ---
 
