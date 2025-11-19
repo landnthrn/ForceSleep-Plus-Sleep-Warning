@@ -100,6 +100,9 @@ powercfg -change -standby-timeout-ac 0
 powercfg -change -standby-timeout-dc 0
 ```
 
+This command does the same thing as if you were to turn it off manually in your power settings  
+You can always turn it back on just like normal  
+
 ---
 
 ## TEST THAT IT WORKS:
