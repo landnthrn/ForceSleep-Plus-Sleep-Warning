@@ -81,11 +81,17 @@ Start-ScheduledTask   -TaskName $taskName
 
 — Once the task is created, open Task Scheduler and confirm the `ForceSleep_Watcher` task is running
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 DISABLE THE DEFAULT SLEEPING SYSTEM:
+
 Run this in PowerShell Administrator
 
 powercfg -change -standby-timeout-ac 0
 powercfg -change -standby-timeout-dc 0
+
+This command does the same thing as if you were to turn it off manually in your power settings
+You can always turn it back on just like normal
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
