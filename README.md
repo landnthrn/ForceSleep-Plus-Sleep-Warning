@@ -110,7 +110,7 @@ You can always turn it back on just like normal
 
 - Open a command prompt window and run `sleep`
 
-- Confirm the watcher is enabled (`sleepstatus`) or turn it on (`sleepon`)
+- Confirm the watcher is enabled `sleepstatus` or turn it on `sleepon`
 
 - Run `sleeptime` and set the idle time to 1 minute for testing
 
